@@ -108,7 +108,7 @@ mean_dis:tensor([6.3671], device='cuda:0'),mean_clock:0.7140019178390503
 无法运行,需要多GPU并行运算
 
 # 环境
-pytorch 0.4.1
+tensorflowgpu 1.12.0 + pytorch 0.4.1
 
 # 原github地址：
 https://github.com/echofist/AM-VRP
